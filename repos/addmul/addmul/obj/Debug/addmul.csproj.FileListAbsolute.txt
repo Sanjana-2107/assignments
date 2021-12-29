@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\addmul\addmul\bin\Debug\addmul.exe.config
+C:\Users\sanch\source\repos\addmul\addmul\bin\Debug\addmul.exe
+C:\Users\sanch\source\repos\addmul\addmul\bin\Debug\addmul.pdb
+C:\Users\sanch\source\repos\addmul\addmul\obj\Debug\addmul.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\addmul\addmul\obj\Debug\addmul.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\addmul\addmul\obj\Debug\addmul.exe
+C:\Users\sanch\source\repos\addmul\addmul\obj\Debug\addmul.pdb

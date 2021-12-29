@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\remotecars\remotecars\obj\Debug\remotecars.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\remotecars\remotecars\obj\Debug\remotecars.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\remotecars\remotecars\bin\Debug\remotecars.exe.config
+C:\Users\sanch\source\repos\remotecars\remotecars\bin\Debug\remotecars.exe
+C:\Users\sanch\source\repos\remotecars\remotecars\bin\Debug\remotecars.pdb
+C:\Users\sanch\source\repos\remotecars\remotecars\obj\Debug\remotecars.exe
+C:\Users\sanch\source\repos\remotecars\remotecars\obj\Debug\remotecars.pdb

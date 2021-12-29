@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\obj\Debug\LUXE- A BEAUTY SALOON.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\obj\Debug\LUXE- A BEAUTY SALOON.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\bin\Debug\LUXE- A BEAUTY SALOON.exe.config
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\bin\Debug\LUXE- A BEAUTY SALOON.exe
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\bin\Debug\LUXE- A BEAUTY SALOON.pdb
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\obj\Debug\LUXE- A BEAUTY SALOON.exe
+C:\Users\sanch\source\repos\LUXE- A BEAUTY SALOON\LUXE- A BEAUTY SALOON\obj\Debug\LUXE- A BEAUTY SALOON.pdb

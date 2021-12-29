@@ -1,0 +1,2 @@
+C:\Users\sanch\source\repos\house\house\obj\Debug\house.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\house\house\obj\Debug\house.csproj.CoreCompileInputs.cache

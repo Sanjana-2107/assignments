@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\MARK\MARK\obj\Debug\MARK.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\MARK\MARK\obj\Debug\MARK.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\MARK\MARK\bin\Debug\MARK.exe.config
+C:\Users\sanch\source\repos\MARK\MARK\bin\Debug\MARK.exe
+C:\Users\sanch\source\repos\MARK\MARK\bin\Debug\MARK.pdb
+C:\Users\sanch\source\repos\MARK\MARK\obj\Debug\MARK.exe
+C:\Users\sanch\source\repos\MARK\MARK\obj\Debug\MARK.pdb

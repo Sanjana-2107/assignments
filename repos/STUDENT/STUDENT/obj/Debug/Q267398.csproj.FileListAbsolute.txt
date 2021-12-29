@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\STUDENT\STUDENT\bin\Debug\STUDENT.exe.config
+C:\Users\sanch\source\repos\STUDENT\STUDENT\bin\Debug\STUDENT.exe
+C:\Users\sanch\source\repos\STUDENT\STUDENT\bin\Debug\STUDENT.pdb
+C:\Users\sanch\source\repos\STUDENT\STUDENT\obj\Debug\Q267398.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\STUDENT\STUDENT\obj\Debug\Q267398.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\STUDENT\STUDENT\obj\Debug\STUDENT.exe
+C:\Users\sanch\source\repos\STUDENT\STUDENT\obj\Debug\STUDENT.pdb

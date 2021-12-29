@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\threadsleep.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\threadsleep.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\sanch\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb

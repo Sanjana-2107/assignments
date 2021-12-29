@@ -1,0 +1,7 @@
+C:\Users\sanch\source\repos\collect demo\collect demo\bin\Debug\collect demo.exe.config
+C:\Users\sanch\source\repos\collect demo\collect demo\bin\Debug\collect demo.exe
+C:\Users\sanch\source\repos\collect demo\collect demo\bin\Debug\collect demo.pdb
+C:\Users\sanch\source\repos\collect demo\collect demo\obj\Debug\collect demo.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\collect demo\collect demo\obj\Debug\collect demo.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\collect demo\collect demo\obj\Debug\collect demo.exe
+C:\Users\sanch\source\repos\collect demo\collect demo\obj\Debug\collect demo.pdb

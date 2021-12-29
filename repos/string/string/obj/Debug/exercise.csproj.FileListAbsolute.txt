@@ -1,0 +1,6 @@
+C:\Users\sanch\source\repos\string\string\bin\Debug\@string.exe.config
+C:\Users\sanch\source\repos\string\string\bin\Debug\@string.exe
+C:\Users\sanch\source\repos\string\string\bin\Debug\@string.pdb
+C:\Users\sanch\source\repos\string\string\obj\Debug\exercise.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\string\string\obj\Debug\@string.exe
+C:\Users\sanch\source\repos\string\string\obj\Debug\@string.pdb
