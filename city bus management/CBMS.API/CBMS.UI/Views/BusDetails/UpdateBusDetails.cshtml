@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{ }
+@model CBMS.Entity.Model.BusDetails
+
+
+<form method="post" enctype="multipart/form-data">
+    <h2>UPDATE BUS DETAILS</h2><hr />
+    <div class="form-group">
+        <label>BUS NO </label>
+        <input type="text" asp-for="busNo" class="form-control" placeholder="Enter bus no" required />
+    </div>
+    <div class="form-group">
+        <label>BUS NAME </label>
+        <input type="text" asp-for="busName " class="form-control" placeholder="Enter bus name" required />
+    </div>
+    <div class="form-group">
+        <label>ARRIVAL TIME</label>
+        <input type="text" asp-for="arrivalTime" class="form-control" placeholder="Enter arrival time" required />
+    </div>
+
+
+    <input type="submit" value="Save" class="btn btn-outline-success" />
+
+    <hr />
+    @if (ViewBag.status == "Ok")
+    {
+<div class="alert alert-success">
+    @ViewBag.message
+</div> }
+            else if (ViewBag.status == "Error")
+            {
+<div class="alert alert-danger">
+    @ViewBag.message
+</div>}
+</form>
+<div>
+    <a asp-controller="BusDetails" asp-action="BusDetails">View  List</a>
+</div>
